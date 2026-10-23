@@ -77,9 +77,9 @@
     {
       "id": "2026-10-24-frame",
       "at": "2026-10-24T07:00:00+00:00",
-      "type": "story_image",
+      "type": "story_video",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-24-frame-sat-24-oct-saturday-email.jpg"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-24-frame-saturday-email.mp4"
       ]
     },
     {
@@ -90,14 +90,6 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-24-story-review-ask.mp4"
       ],
       "hold": true
-    },
-    {
-      "id": "2026-10-24-story-nobody-asks",
-      "at": "2026-10-24T12:00:00+00:00",
-      "type": "story_image",
-      "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-24-nobody-asks-1.jpg"
-      ]
     },
     {
       "id": "2026-10-24-carousel-nobody-asks",
@@ -111,6 +103,14 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-24-nobody-asks-5.jpg"
       ],
       "caption": "Happy customers don't leave reviews. Nobody asks them. This ask goes to every customer after every job.\nSave this for the office.\n#tradesuk #plumbingbusiness #heatingengineer #smallbusinessuk"
+    },
+    {
+      "id": "2026-10-24-story-nobody-asks",
+      "at": "2026-10-24T17:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-24-story-nobody-asks.mp4"
+      ]
     },
     {
       "id": "2026-10-25-frame",
@@ -135,7 +135,8 @@
       "type": "story_image",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-25-ask-on-your-form-1.jpg"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-10-25-reel-who-you-deal-with",
@@ -178,7 +179,8 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-26-heating-on.mp4"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-10-26-reel-heating-on",
@@ -243,7 +245,8 @@
       "type": "story_image",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-1.jpg"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-10-28-carousel-booked-while-you-slept",
@@ -282,7 +285,8 @@
       "type": "story_image",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-1.jpg"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-10-29-reel-missed-call",
@@ -332,7 +336,8 @@
       "type": "story_image",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-30-eicr-by-5-1.jpg"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-10-30-reel-chase-it-or-leave-it",
@@ -415,14 +420,6 @@
       "hold": true
     },
     {
-      "id": "2026-11-02-story-texts-from-customers",
-      "at": "2026-11-02T13:00:00+00:00",
-      "type": "story_video",
-      "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-texts-from-customers.mp4"
-      ]
-    },
-    {
       "id": "2026-11-02-reel-texts-from-customers",
       "at": "2026-11-02T18:00:00+00:00",
       "type": "reel",
@@ -433,12 +430,21 @@
       "caption": "The reply you type, and the one you send. Texts from customers, episode 1.\n\nThe one you couldn't answer on a job got a text back straight away.\n\n#tradesuk #plumberuk #electricianuk #smallbusinessuk"
     },
     {
+      "id": "2026-11-02-story-texts-from-customers",
+      "at": "2026-11-02T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-texts-from-customers.mp4"
+      ]
+    },
+    {
       "id": "2026-11-04-story-then-nothing",
       "at": "2026-11-04T13:00:00+00:00",
       "type": "story_image",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-04-then-nothing-1.jpg"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-11-04-carousel-then-nothing",
@@ -459,7 +465,8 @@
       "type": "story_image",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-13-chase-it-or-leave-it-1.jpg"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-11-13-carousel-chase-it-or-leave-it",
