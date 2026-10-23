@@ -415,6 +415,24 @@
       "hold": true
     },
     {
+      "id": "2026-11-02-story-texts-from-customers",
+      "at": "2026-11-02T13:00:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-texts-from-customers.mp4"
+      ]
+    },
+    {
+      "id": "2026-11-02-reel-texts-from-customers",
+      "at": "2026-11-02T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-texts-from-customers.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-texts-from-customers-cover.jpg",
+      "caption": "The reply you type, and the one you send. Texts from customers, episode 1.\n\nThe one you couldn't answer on a job got a text back straight away.\n\n#tradesuk #plumberuk #electricianuk #smallbusinessuk"
+    },
+    {
       "id": "2026-11-04-story-then-nothing",
       "at": "2026-11-04T13:00:00+00:00",
       "type": "story_image",
