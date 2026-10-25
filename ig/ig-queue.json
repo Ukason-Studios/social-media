@@ -438,7 +438,7 @@
       "at": "2026-11-02T18:15:00+00:00",
       "type": "story_video",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-texts-from-customers.mp4"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-story-texts-from-customers.mp4"
       ]
     },
     {
@@ -460,6 +460,24 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-04-story-then-nothing.mp4"
+      ]
+    },
+    {
+      "id": "2026-11-05-reel-texts-from-customers-short",
+      "at": "2026-11-05T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-texts-from-customers-short.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-texts-from-customers-short-cover.jpg",
+      "caption": "Some texts you think about before replying. The call you missed on a job got a text back straight away, and the customer replied with what they needed. Texts from customers, episode 1.\n\n#tradesuk #plumberuk #electricianuk #smallbusinessuk"
+    },
+    {
+      "id": "2026-11-05-story-texts-from-customers-short",
+      "at": "2026-11-05T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-story-texts-from-customers.mp4"
       ]
     },
     {
