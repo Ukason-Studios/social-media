@@ -223,10 +223,10 @@
     },
     {
       "id": "2026-10-27-story-office-jobs",
-      "at": "2026-10-27T13:00:00+00:00",
-      "type": "story_image",
+      "at": "2026-10-27T12:15:00+00:00",
+      "type": "story_video",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-27-story-office-jobs.jpg"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-27-story-office-jobs.mp4"
       ]
     },
     {
@@ -439,6 +439,14 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-02-story-texts-from-customers.mp4"
+      ]
+    },
+    {
+      "id": "2026-11-03-story-trade-website",
+      "at": "2026-11-03T12:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-03-story-trade-website.mp4"
       ]
     },
     {
