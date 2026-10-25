@@ -247,18 +247,14 @@
       "hold": true
     },
     {
-      "id": "2026-10-28-carousel-booked-while-you-slept",
+      "id": "2026-10-28-reel-booked-while-you-slept",
       "at": "2026-10-28T18:00:00+00:00",
-      "type": "carousel",
+      "type": "reel",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-1.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-2.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-3.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-4.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-5.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-6.jpg"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-reel.mp4"
       ],
-      "caption": "A slate slipped at 23:12 and the office was shut. The website chat answered from the firm's own prices and booked the free survey, so it was waiting before the first job.\nSave this for when you redo your site.\n#roofing #tradesuk"
+      "caption": "A slate slipped at 23:12 and the office was shut. The website chat answered from the firm's own prices and booked the free survey, so it was waiting before the first job.\nSave this for when you redo your site.\n#roofing #tradesuk",
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-28-booked-while-you-slept-reel-cover.jpg"
     },
     {
       "id": "2026-10-28-story-booked-while-you-slept",
