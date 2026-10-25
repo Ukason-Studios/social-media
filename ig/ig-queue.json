@@ -343,7 +343,7 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-30-chase-it-or-leave-it.mp4"
       ],
       "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-30-chase-it-or-leave-it-cover.jpg",
-      "caption": "You sent a \u00a32,400 quote on Monday. It's Friday and nothing's come back. Chase it, and make it easy to say no. One text is enough, and the words are in the video.\nSave this for your next quote, or send it to whoever sends yours.\nDo you chase quotes, or leave them?\n#tradesuk #heatingengineer #smallbusinessuk",
+      "caption": "You sent a £2,400 quote on Monday. It's Friday and nothing's come back. Chase it, and make it easy to say no. One text is enough, and the words are in the video.\nSave this for your next quote, or send it to whoever sends yours.\nDo you chase quotes, or leave them?\n#tradesuk #heatingengineer #smallbusinessuk",
       "hold": true
     },
     {
@@ -463,6 +463,21 @@
       ]
     },
     {
+      "id": "2026-11-10-carousel-sheet-to-phones",
+      "at": "2026-11-10T18:00:00+00:00",
+      "type": "carousel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-1.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-2.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-3.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-4.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-5.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-6.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-7.jpg"
+      ],
+      "caption": "Send us a photo of your job sheet. We'll put it on your engineers' phones.\nLink in bio.\n#tradesuk #plumbingbusiness #electricalcontractor"
+    },
+    {
       "id": "2026-11-13-carousel-chase-it-or-leave-it",
       "at": "2026-11-13T18:00:00+00:00",
       "type": "carousel",
@@ -474,7 +489,7 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-13-chase-it-or-leave-it-5.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-13-chase-it-or-leave-it-6.jpg"
       ],
-      "caption": "You sent a \u00a32,400 quote on Monday. It's Friday and nothing's come back. Chase it, and make it easy to say no. One text is enough, and the words are on the slides.\nSave this for your next quote, or send it to whoever sends yours.\nDo you chase quotes, or leave them?\n#tradesuk #plumbingbusiness #heatingengineer #smallbusinessuk"
+      "caption": "You sent a £2,400 quote on Monday. It's Friday and nothing's come back. Chase it, and make it easy to say no. One text is enough, and the words are on the slides.\nSave this for your next quote, or send it to whoever sends yours.\nDo you chase quotes, or leave them?\n#tradesuk #plumbingbusiness #heatingengineer #smallbusinessuk"
     },
     {
       "id": "2026-11-13-story-chase-it-or-leave-it",
@@ -483,6 +498,21 @@
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-13-story-chase-it-or-leave-it.mp4"
       ]
+    },
+    {
+      "id": "2026-11-17-carousel-paper-cost",
+      "at": "2026-11-17T18:00:00+00:00",
+      "type": "carousel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-1.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-2.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-3.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-4.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-5.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-6.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-7.jpg"
+      ],
+      "caption": "The job's done. The sheet isn't.\nLink in bio.\n#tradesuk #plumbingbusiness #electricalcontractor"
     }
   ]
 }
