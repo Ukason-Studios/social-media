@@ -496,6 +496,14 @@
       "caption": "Send us a photo of your job sheet. We'll put it on your engineers' phones.\nLink in bio.\n#tradesuk #plumbingbusiness #electricalcontractor"
     },
     {
+      "id": "2026-11-10-story-sheet-to-phones",
+      "at": "2026-11-10T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-story-sheet-to-phones.mp4"
+      ]
+    },
+    {
       "id": "2026-11-13-carousel-chase-it-or-leave-it",
       "at": "2026-11-13T18:00:00+00:00",
       "type": "carousel",
@@ -531,6 +539,14 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-7.jpg"
       ],
       "caption": "The job's done. The sheet isn't.\nLink in bio.\n#tradesuk #plumbingbusiness #electricalcontractor"
+    },
+    {
+      "id": "2026-11-17-story-paper-cost",
+      "at": "2026-11-17T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-story-paper-cost.mp4"
+      ]
     }
   ]
 }
