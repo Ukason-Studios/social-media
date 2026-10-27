@@ -293,25 +293,21 @@
       "hold": true
     },
     {
-      "id": "2026-10-29-carousel-who-you-deal-with",
+      "id": "2026-10-29-reel-hero-film",
       "at": "2026-10-29T18:00:00+00:00",
-      "type": "carousel",
+      "type": "reel",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-1.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-2.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-3.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-4.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-5.jpg",
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-6.jpg"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-hero-film-4x5.mp4"
       ],
-      "caption": "When you work with us, you deal with the person building your app, from the first call to handover. You tell us how your office runs, and we build the app around that. When something needs changing, you message the person who built it.\nWho do you message now when something in your office needs changing?\n#smallbusinessuk #tradesuk"
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-hero-film-cover-4x5.jpg",
+      "caption": "From the first call to the final invoice, we build the apps your firm runs on. Every firm in the film is one of our concepts. Book a 10 minute call, link in bio.\n#tradesuk #smallbusinessuk"
     },
     {
-      "id": "2026-10-29-story-who-you-deal-with",
+      "id": "2026-10-29-story-hero-film",
       "at": "2026-10-29T18:15:00+00:00",
       "type": "story_video",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-story-who-you-deal-with.mp4"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-story-hero-film.mp4"
       ]
     },
     {
@@ -568,6 +564,28 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-story-sheet-to-phones.mp4"
+      ]
+    },
+    {
+      "id": "2026-11-11-carousel-who-you-deal-with",
+      "at": "2026-11-11T18:00:00+00:00",
+      "type": "carousel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-1.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-2.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-3.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-4.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-5.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-6.jpg"
+      ],
+      "caption": "When you work with us, you deal with the person building your app, from the first call to handover. You tell us how your office runs, and we build the app around that. When something needs changing, you message the person who built it.\nWho do you message now when something in your office needs changing?\n#smallbusinessuk #tradesuk"
+    },
+    {
+      "id": "2026-11-11-story-who-you-deal-with",
+      "at": "2026-11-11T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-story-who-you-deal-with.mp4"
       ]
     },
     {
