@@ -488,7 +488,22 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-texts-from-customers-short.mp4"
       ],
       "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-texts-from-customers-short-cover.jpg",
-      "caption": "Some texts you think about before replying. The call you missed on a job got a text back straight away, and the customer replied with what they needed. Texts from customers, episode 1.\n\n#tradesuk #plumberuk #electricianuk #smallbusinessuk"
+      "caption": "Some texts you think about before replying. The call you missed on a job got a text back straight away, and the customer replied with what they needed. Texts from customers, episode 1.\n\n#tradesuk #plumberuk #electricianuk #smallbusinessuk",
+      "hold": true
+    },
+    {
+      "id": "2026-11-05-carousel-extra-work-signed",
+      "at": "2026-11-05T18:00:00+00:00",
+      "type": "carousel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-extra-work-signed-1.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-extra-work-signed-2.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-extra-work-signed-3.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-extra-work-signed-4.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-extra-work-signed-5.jpg",
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-extra-work-signed-6.jpg"
+      ],
+      "caption": "“While you’re here, can you add another socket?” It goes on the job sheet at your listed price, and the customer signs for it with the rest of the job. The office sees it ready to invoice, so there's no surprise on the bill.\n26% of homeowners name a price changing mid-job as one of a tradesperson’s worst habits (Markel Direct, survey of 500 UK homeowners, July 2026).\nHow do you handle a “while you’re here” now?\n#electrician #tradesuk"
     },
     {
       "id": "2026-11-05-story-texts-from-customers-short",
@@ -496,6 +511,15 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-story-texts-from-customers-short.mp4"
+      ],
+      "hold": true
+    },
+    {
+      "id": "2026-11-05-story-extra-work-signed",
+      "at": "2026-11-05T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-05-story-extra-work-signed.mp4"
       ]
     },
     {
@@ -510,7 +534,18 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-06-on-the-tools-5.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-06-on-the-tools-6.jpg"
       ],
-      "caption": "Nothing changes for the people on the tools. A call they answer is never texted. A call they can't take gets a text back within a minute, and the office sees what the caller wants and who to ring first. Three people answer. Everyone else keeps working.\nWho answers your phone when you’re all on jobs?\n#cleaningbusiness #tradesuk"
+      "caption": "Nothing changes for the people on the tools. A call they answer is never texted. A call they can't take gets a text back within a minute, and the office sees what the caller wants and who to ring first. Three people answer. Everyone else keeps working.\nWho answers your phone when you’re all on jobs?\n#cleaningbusiness #tradesuk",
+      "hold": true
+    },
+    {
+      "id": "2026-11-06-reel-motion-study-phones",
+      "at": "2026-11-06T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-06-motion-study-phones.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-06-motion-study-phones-cover.jpg",
+      "caption": "Three concept apps we designed for firms with people out on jobs.\n#appdesign #tradesuk"
     },
     {
       "id": "2026-11-06-story-on-the-tools",
@@ -518,6 +553,15 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-06-story-on-the-tools.mp4"
+      ],
+      "hold": true
+    },
+    {
+      "id": "2026-11-06-story-motion-study-phones",
+      "at": "2026-11-06T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-06-story-motion-study-phones.mp4"
       ]
     },
     {
@@ -532,7 +576,17 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-08-call-at-9pm-5.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-08-call-at-9pm-6.jpg"
       ],
-      "caption": "Sunday, 9pm. You're closed and your phone is on silent. The caller still gets a text back saying when you're open and asking what needs doing. They reply before bed, and at 7.30 on Monday the job is at the top of your list, written down.\nWhen does your last call of the day come in?\n#cleaningbusiness #tradesuk"
+      "caption": "Sunday, 9pm. You're closed and your phone is on silent. The caller still gets a text back saying when you're open and asking what needs doing. They reply before bed, and at 7.30 on Monday the job is at the top of your list, written down.\nWhen does your last call of the day come in?\n#cleaningbusiness #tradesuk",
+      "hold": true
+    },
+    {
+      "id": "2026-11-08-image-fern-flue",
+      "at": "2026-11-08T18:00:00+00:00",
+      "type": "image",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-08-fern-flue-site.jpg"
+      ],
+      "caption": "Fern & Flue Heating. A concept site for a heating firm, the whole homepage printed as one piece.\n#webdesign #heatingengineer"
     },
     {
       "id": "2026-11-08-story-call-at-9pm",
@@ -540,6 +594,15 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-08-story-call-at-9pm.mp4"
+      ],
+      "hold": true
+    },
+    {
+      "id": "2026-11-08-story-fern-flue",
+      "at": "2026-11-08T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-08-story-fern-flue.mp4"
       ]
     },
     {
