@@ -426,7 +426,8 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-hero-film-4x5.mp4"
       ],
       "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-hero-film-cover-4x5.jpg",
-      "caption": "From the first call to the final invoice, we build the apps your firm runs on. Every firm in the film is one of our concepts. Book a 10 minute call, link in bio.\n#tradesuk #smallbusinessuk"
+      "caption": "From the first call to the final invoice, we build the apps your firm runs on. Every firm in the film is one of our concepts. Book a 10 minute call, link in bio.\n#tradesuk #smallbusinessuk",
+      "hold": true
     },
     {
       "id": "2026-11-01-story-hero-film",
@@ -434,7 +435,8 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-story-hero-film.mp4"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-11-02-reel-texts-from-customers",
