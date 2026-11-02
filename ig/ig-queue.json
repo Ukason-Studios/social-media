@@ -659,7 +659,8 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-09-first-sheet-5.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-09-first-sheet-6.jpg"
       ],
-      "caption": "Callum's first day, and his first job sheet. Two of the three checks are ticked when he taps Send, and the sheet tells him what's still needed. Once the readings, the last check, the signature and the customer's name are in, it goes to the office.\nWhat does a new starter always leave off the sheet?\n#electrician #tradesuk"
+      "caption": "Callum's first day, and his first job sheet. Two of the three checks are ticked when he taps Send, and the sheet tells him what's still needed. Once the readings, the last check, the signature and the customer's name are in, it goes to the office.\nWhat does a new starter always leave off the sheet?\n#electrician #tradesuk",
+      "hold": true
     },
     {
       "id": "2026-11-09-story-first-sheet",
@@ -667,7 +668,8 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-09-story-first-sheet.mp4"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-11-10-carousel-sheet-to-phones",
@@ -682,7 +684,8 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-6.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-sheet-to-phones-7.jpg"
       ],
-      "caption": "Send us a photo of your job sheet. We'll put it on your engineers' phones.\nLink in bio.\n#tradesuk #plumbingbusiness"
+      "caption": "Send us a photo of your job sheet. We'll put it on your engineers' phones.\nLink in bio.\n#tradesuk #plumbingbusiness",
+      "hold": true
     },
     {
       "id": "2026-11-10-story-sheet-to-phones",
@@ -690,7 +693,8 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-story-sheet-to-phones.mp4"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-11-11-carousel-who-you-deal-with",
@@ -704,7 +708,8 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-5.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-who-you-deal-with-6.jpg"
       ],
-      "caption": "When you work with us, you deal with the person building your app, from the first call to handover. You tell us how your office runs, and we build the app around that. When something needs changing, you message the person who built it.\nWho do you message now when something in your office needs changing?\n#smallbusinessuk #tradesuk"
+      "caption": "When you work with us, you deal with the person building your app, from the first call to handover. You tell us how your office runs, and we build the app around that. When something needs changing, you message the person who built it.\nWho do you message now when something in your office needs changing?\n#smallbusinessuk #tradesuk",
+      "hold": true
     },
     {
       "id": "2026-11-11-story-who-you-deal-with",
@@ -712,7 +717,8 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-story-who-you-deal-with.mp4"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-11-13-carousel-chase-it-or-leave-it",
@@ -726,7 +732,8 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-13-chase-it-or-leave-it-5.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-13-chase-it-or-leave-it-6.jpg"
       ],
-      "caption": "You sent a £2,400 quote on Monday. It's Friday and nothing's come back. Chase it, and make it easy to say no. One text is enough, and the words are on the slides.\nDo you chase quotes, or leave them?\n#tradesuk #plumbingbusiness"
+      "caption": "You sent a £2,400 quote on Monday. It's Friday and nothing's come back. Chase it, and make it easy to say no. One text is enough, and the words are on the slides.\nDo you chase quotes, or leave them?\n#tradesuk #plumbingbusiness",
+      "hold": true
     },
     {
       "id": "2026-11-13-story-chase-it-or-leave-it",
@@ -734,7 +741,8 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-13-story-chase-it-or-leave-it.mp4"
-      ]
+      ],
+      "hold": true
     },
     {
       "id": "2026-11-17-carousel-paper-cost",
@@ -749,7 +757,8 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-6.jpg",
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-paper-cost-7.jpg"
       ],
-      "caption": "The job's done. The sheet isn't.\nLink in bio.\n#tradesuk #plumbingbusiness"
+      "caption": "The job's done. The sheet isn't.\nLink in bio.\n#tradesuk #plumbingbusiness",
+      "hold": true
     },
     {
       "id": "2026-11-17-story-paper-cost",
@@ -757,7 +766,8 @@
       "type": "story_video",
       "media": [
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-story-paper-cost.mp4"
-      ]
+      ],
+      "hold": true
     }
   ]
 }
