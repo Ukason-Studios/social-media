@@ -663,6 +663,16 @@
       "hold": true
     },
     {
+      "id": "2026-11-09-reel-the-other-shift-ep1",
+      "at": "2026-11-09T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-09-the-other-shift-ep1.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-09-the-other-shift-ep1-cover.jpg",
+      "caption": "You finish at half five. Then the other shift starts, quotes to write and invoices to chase. The other shift, episode 1.\nTrades who do their own admin spend 5 hours 20 minutes a week on it, and 62% do it in the evenings (Powered Now, NOW Report 2026).\nWhat's on your other shift tonight, quotes or invoices?\n#tradesuk #smallbusinessuk"
+    },
+    {
       "id": "2026-11-09-story-first-sheet",
       "at": "2026-11-09T18:15:00+00:00",
       "type": "story_video",
@@ -670,6 +680,14 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-09-story-first-sheet.mp4"
       ],
       "hold": true
+    },
+    {
+      "id": "2026-11-09-story-the-other-shift-ep1",
+      "at": "2026-11-09T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-09-story-the-other-shift-ep1.mp4"
+      ]
     },
     {
       "id": "2026-11-10-carousel-sheet-to-phones",
