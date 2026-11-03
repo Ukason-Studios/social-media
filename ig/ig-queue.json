@@ -749,14 +749,14 @@
       "hold": true
     },
     {
-      "id": "2026-11-12-reel-extra-socket",
+      "id": "2026-11-12-reel-eicr-by-5",
       "at": "2026-11-12T18:00:00+00:00",
       "type": "reel",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-extra-socket.mp4"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-eicr-by-5-reel.mp4"
       ],
-      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-extra-socket-cover.jpg",
-      "caption": "While you're here, can you add another socket? Dan adds it on the job sheet at the listed price, Ruth signs for it with the rest of the job, and the office sees it ready to invoice. Northvale is our example app.\nLink in bio.\n#electricianuk #tradesuk"
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-eicr-by-5-reel-cover.jpg",
+      "caption": "Friday, 15:58. A landlord needs last year's EICR by 5. Instead of opening the filing cabinet, the office types the street, and the whole job comes up with the EICR and its readings.\nWhere's your paperwork from last August?\n#electricalcontractor #eicr"
     },
     {
       "id": "2026-11-13-carousel-chase-it-or-leave-it",
@@ -806,6 +806,16 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-17-story-paper-cost.mp4"
       ],
       "hold": true
+    },
+    {
+      "id": "2026-11-19-reel-extra-socket",
+      "at": "2026-11-19T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-extra-socket.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-extra-socket-cover.jpg",
+      "caption": "While you're here, can you add another socket? Dan adds it on the job sheet at the listed price, Ruth signs for it with the rest of the job, and the office sees it ready to invoice. Northvale is our example app.\nLink in bio.\n#electricianuk #tradesuk"
     }
   ]
 }
