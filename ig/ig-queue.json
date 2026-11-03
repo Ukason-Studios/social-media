@@ -706,6 +706,16 @@
       "hold": true
     },
     {
+      "id": "2026-11-10-reel-the-other-shift-9pm",
+      "at": "2026-11-10T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-the-other-shift-9pm.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-the-other-shift-9pm-cover.jpg",
+      "caption": "9pm. You've finished for the day. The phone hasn't. Every missed call gets a text back from your firm, so by morning you know the job and where it is.\nLink in bio.\nDo you check missed calls at night, or leave them till morning?\n#tradesuk #plumberuk"
+    },
+    {
       "id": "2026-11-10-story-sheet-to-phones",
       "at": "2026-11-10T18:15:00+00:00",
       "type": "story_video",
@@ -737,6 +747,16 @@
         "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-10-29-story-who-you-deal-with.mp4"
       ],
       "hold": true
+    },
+    {
+      "id": "2026-11-12-reel-extra-socket",
+      "at": "2026-11-12T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-extra-socket.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-extra-socket-cover.jpg",
+      "caption": "While you're here, can you add another socket? Dan adds it on the job sheet at the listed price, Ruth signs for it with the rest of the job, and the office sees it ready to invoice. Northvale is our example app.\nLink in bio.\n#electricianuk #tradesuk"
     },
     {
       "id": "2026-11-13-carousel-chase-it-or-leave-it",
