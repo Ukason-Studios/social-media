@@ -706,14 +706,14 @@
       "hold": true
     },
     {
-      "id": "2026-11-10-reel-the-other-shift-9pm",
+      "id": "2026-11-10-reel-eicr-by-5",
       "at": "2026-11-10T18:00:00+00:00",
       "type": "reel",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-the-other-shift-9pm.mp4"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-eicr-by-5-reel.mp4"
       ],
-      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-the-other-shift-9pm-cover.jpg",
-      "caption": "9pm. You've finished for the day, and the phone's on the side. Someone's ringing about a leak.\nWe text back every call your firm misses, so by morning you know the job and where it is. Link in bio.\nWhen does your last call of the day come in?\n#tradesuk #plumberuk"
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-eicr-by-5-reel-cover.jpg",
+      "caption": "Friday, 15:58, and a landlord needs last year's EICR by 5. The office types the street and the whole job comes up.\nWe build apps like this for trade firms, so the office finds any job by its street. Link in bio.\nWhere are last year's certificates at yours, in a drawer or on a laptop?\n#electrician #tradesuk"
     },
     {
       "id": "2026-11-10-story-sheet-to-phones",
@@ -749,14 +749,14 @@
       "hold": true
     },
     {
-      "id": "2026-11-12-reel-eicr-by-5",
+      "id": "2026-11-12-reel-office-jobs",
       "at": "2026-11-12T18:00:00+00:00",
       "type": "reel",
       "media": [
-        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-eicr-by-5-reel.mp4"
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-office-jobs-reel.mp4"
       ],
-      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-eicr-by-5-reel-cover.jpg",
-      "caption": "Friday, 15:58, and a landlord needs last year's EICR by 5. The office types the street and the whole job comes up.\nWe build apps like this for trade firms, so the office finds any job by its street. Link in bio.\nWhere are last year's certificates at yours, in a drawer or on a laptop?\n#electrician #tradesuk"
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-office-jobs-reel-cover.jpg",
+      "caption": "Boiler services are due this month, and nobody's had time to ring round. One reminder goes from Priya's record. She answers \"Thursday morning works\", and the visit is booked with Sam.\nWho reminds your customers their service is due, you or the office?\n#heatingengineer #tradesuk"
     },
     {
       "id": "2026-11-13-carousel-chase-it-or-leave-it",
@@ -816,6 +816,16 @@
       ],
       "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-12-extra-socket-cover.jpg",
       "caption": "\"While you're here, can you add another socket?\" Dan adds it to the job sheet at the listed price, and Ruth signs for it with the rest of the job. The office sees it ready to invoice.\nWe build job sheet apps like this for trade firms. Northvale is our example. Link in bio.\nWhen they ask \"while you're here\", do you price it on the spot or after?\n#electrician #tradesuk"
+    },
+    {
+      "id": "2026-11-20-reel-the-other-shift-9pm",
+      "at": "2026-11-20T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-the-other-shift-9pm.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-10-the-other-shift-9pm-cover.jpg",
+      "caption": "9pm. You've finished for the day, and the phone's on the side. Someone's ringing about a leak.\nWe text back every call your firm misses, so by morning you know the job and where it is. Link in bio.\nWhen does your last call of the day come in?\n#tradesuk #plumberuk"
     }
   ]
 }
