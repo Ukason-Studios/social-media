@@ -740,6 +740,16 @@
       "hold": true
     },
     {
+      "id": "2026-11-11-reel-voicemail-greeting",
+      "at": "2026-11-11T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-11-voicemail-greeting-reel.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-11-voicemail-greeting-reel-cover.jpg",
+      "caption": "When did you last leave a voicemail? Your callers don't either. Record this greeting and they get a text asking for the job, so you know what it is before you ring back.\nSave this for when you record yours. What does your voicemail say now?\n#tradesuk #plumberuk"
+    },
+    {
       "id": "2026-11-11-story-who-you-deal-with",
       "at": "2026-11-11T18:15:00+00:00",
       "type": "story_video",
