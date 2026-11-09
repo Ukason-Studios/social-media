@@ -793,6 +793,24 @@
       "hold": true
     },
     {
+      "id": "2026-11-14-reel-concept-app-wenmoor",
+      "at": "2026-11-14T18:00:00+00:00",
+      "type": "reel",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-14-concept-app-wenmoor.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-14-concept-app-wenmoor-cover.jpg",
+      "caption": "The garden room's finished, and the customer sees today's photo on their phone before they pay the last stage. Wenmoor Garden Rooms is a concept app where each stage is paid only once it's done.\nWe build apps like this for trade firms. Link in bio.\nHow do your customers pay on a big job, in stages or at the end?\n#gardenrooms #tradesuk"
+    },
+    {
+      "id": "2026-11-14-story-concept-app-wenmoor",
+      "at": "2026-11-14T18:15:00+00:00",
+      "type": "story_video",
+      "media": [
+        "https://raw.githubusercontent.com/Ukason-Studios/social-media/main/ig/2026-11-14-concept-app-wenmoor.mp4"
+      ]
+    },
+    {
       "id": "2026-11-15-reel-day-30",
       "at": "2026-11-15T18:00:00+00:00",
       "type": "reel",
